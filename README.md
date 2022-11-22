@@ -4,8 +4,7 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
 
 1.  Clone the repo:
 
-        git clone [https://github.com/christopher4lis/canvas-boilerplate.git](https://github.com/VuTran-it/Game.git)
-
+        git clone https://github.com/VuTran-it/Game.git
 2.  Install dependencies:
 
         yarn
